@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f6b4e17-20b0-42d2-9b08-0eceab7fd3d8" name="Changes" comment="Make model in models.py">
-      <change afterPath="$PROJECT_DIR$/django_textbook/polls/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_textbook/polls/templates/polls/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_textbook/polls/templates/polls/index.html" afterDir="false" />
+    <list default="true" id="6f6b4e17-20b0-42d2-9b08-0eceab7fd3d8" name="Changes" comment="Finish 5-th lesson">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_textbook/django_textbook/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_textbook/django_textbook/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_textbook/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_textbook/polls/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_textbook/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_textbook/polls/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_textbook/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_textbook/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_textbook/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_textbook/polls/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_textbook/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_textbook/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +104,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739257466572</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finish 4-th lesson">
+      <option name="closed" value="true" />
+      <created>1739334704025</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739334704026</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finish 5-th lesson">
+      <option name="closed" value="true" />
+      <created>1739339683871</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739339683873</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +129,8 @@
     <MESSAGE value="Starting textbook project - polls" />
     <MESSAGE value="Starting properties in sites urls" />
     <MESSAGE value="Make model in models.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make model in models.py" />
+    <MESSAGE value="Finish 4-th lesson" />
+    <MESSAGE value="Finish 5-th lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish 5-th lesson" />
   </component>
 </project>
