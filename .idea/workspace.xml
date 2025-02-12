@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f6b4e17-20b0-42d2-9b08-0eceab7fd3d8" name="Changes" comment="Make tests for polls-app.">
-      <change afterPath="$PROJECT_DIR$/django_textbook/polls/static/polls/image/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_textbook/polls/static/polls/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_textbook/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/django_textbook/polls/templates/polls/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_textbook/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_textbook/polls/views.py" afterDir="false" />
+    <list default="true" id="6f6b4e17-20b0-42d2-9b08-0eceab7fd3d8" name="Changes" comment="Add static files, and set background image polls app.">
+      <change afterPath="$PROJECT_DIR$/django_textbook/django_textbook/templates/admin/base_site.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_textbook/django_textbook/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_textbook/django_textbook/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_textbook/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_textbook/polls/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_textbook/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_textbook/polls/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739343916344</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add static files, and set background image polls app.">
+      <option name="closed" value="true" />
+      <created>1739345446198</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739345446199</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -146,6 +153,7 @@
     <MESSAGE value="Finish 4-th lesson" />
     <MESSAGE value="Finish 5-th lesson" />
     <MESSAGE value="Make tests for polls-app." />
-    <option name="LAST_COMMIT_MESSAGE" value="Make tests for polls-app." />
+    <MESSAGE value="Add static files, and set background image polls app." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add static files, and set background image polls app." />
   </component>
 </project>
